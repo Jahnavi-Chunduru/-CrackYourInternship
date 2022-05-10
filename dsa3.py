@@ -1,3 +1,4 @@
+#reversing a number
 n=int(input("Enter a number:"))
 s=str(n)
 l1=[x for x in s]
