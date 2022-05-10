@@ -1,3 +1,4 @@
+#find the number of duplicates in a word
 s=input("string please...")
 l1=[x for x in s]
 for i in l1:
