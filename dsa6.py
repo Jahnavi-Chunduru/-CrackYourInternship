@@ -1,3 +1,4 @@
+#reversing the order of words in a sentence
 s=input()
 l1=s.split()
 l2=[]
