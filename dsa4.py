@@ -1,3 +1,4 @@
+#palindrome number
 n=int(input("enter a number:"))
 s1=str(n)
 l1=[x for x in s1]
