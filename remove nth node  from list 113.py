@@ -1,0 +1,5 @@
+print("enter the elements of list:")
+nums=list(map(int,input().split()))
+n=int(input("enter the index of element to be removed:"))
+nums.pop(0-n)
+print(nums)
